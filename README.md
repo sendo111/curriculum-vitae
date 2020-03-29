@@ -22,6 +22,7 @@
 |JavaScript|-||
 | |AngularJS 1.x||
 | |jQuery||
+| |React||
 |シェルスクリプト|||
 
 
@@ -168,3 +169,4 @@ MySQLデータベースからのデータ抽出や更新をメインに、1億�
 |---|---|---|---|---|
 |D-CAS(Data-CollaborationAnalysisSystem)| |約2ヶ月|Python, Django, React, Nginx, MySQL, AWS|[D-CAS](https://github.com/sendo111/D-CAS/tree/develop)|
 |TIPS(Tech Info Push System)| |約2ヶ月|Python, Django, JavaScript, docker-compose, Nginx, MySQL, OneSignal, AWS|[TIPS](https://github.com/sendo111/five-equal-pythonista)|
+|はじめての自動化|書籍| |Python, GitHub, Docker, AWS, Ansible, CircleCI|[はじめての自動化](https://techbookfest.org/event/tbf08/circle/5629626760036352)|
